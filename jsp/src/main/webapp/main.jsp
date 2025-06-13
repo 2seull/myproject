@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-jsp 프로젝트1212
-user1 브렌치 생성11
+main.jsp 파일 (user1브랜치)
 </body>
 </html>
